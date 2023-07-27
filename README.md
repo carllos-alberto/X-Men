@@ -1,6 +1,5 @@
-# X-Men...
-
-# 🛠️  Projeto em Construção!!!!!!
+# X-Men.
+# 🛠️  Projeto em Construção!
 
 ## 📌 Screenshots
 
